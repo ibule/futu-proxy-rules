@@ -19,13 +19,14 @@
 核心列表：
 
 ```text
-https://raw.githubusercontent.com/jasonyang527/futu-proxy-rules/main/Futu.list
+https://raw.githubusercontent.com/ibule/futu-proxy-rules/main/Futu.list
 ```
 
 扩展列表：
 
 ```text
-https://raw.githubusercontent.com/jasonyang527/futu-proxy-rules/main/Futu_Extended.list
+https://raw.githubusercontent.com/ibule/futu-proxy-rules/main/Futu_Extended.list
+
 ```
 
 > 行为这里要选「PROXY（代理）」，不要选 DIRECT，否则富途流量仍然走直连、连不上。
